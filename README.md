@@ -1,5 +1,5 @@
 # Google Developer Student Clubs - Blockchain Submission
-My submission for Task Round implementing a basic ERC721 smart contract with functions for minting new tokens and transferring ownership.
+My submission for Task Round is implementing a basic ERC721 smart contract with functions for minting new tokens and transferring ownership.
 
 Test URL - https://gdsc-blockchain.vercel.app/
 
